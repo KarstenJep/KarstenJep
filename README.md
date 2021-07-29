@@ -1,7 +1,7 @@
 <h2 align="left">Hello! 👋 </h2>
 
 - I’m currently working on a **react job tracking app** 🔭 
-- I’m currently taking courses at **Deque University** 🌱 
+- I’m also taking courses at **Deque University** 🌱 
 - All of my projects are available at **Coming Soon!** 👨‍💻
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering        program 📝 
 - I've also graduated from **Winona State University** with B.S. in Kineisology 📄 
