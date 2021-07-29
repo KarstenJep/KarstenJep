@@ -3,7 +3,7 @@
 - I’m currently working on a **react job tracking app** 🔭 
 - I’m currently taking courses at **Deque University** 🌱 
 - All of my projects are available at **Coming Soon!** 👨‍💻
-- I graduated from **Prime Digital Academys** Full Stack Software Engineering        program📝 
+- I graduated from **Prime Digital Academys** Full Stack Software Engineering        program 📝 
 - I've also graduated from **Winona State University** with B.S. in Kineisology 📄 
 - Ask me about **programmer memes** 💬 
 - How to reach me **kjepsen86@gmail.com** 📫
