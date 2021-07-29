@@ -1,4 +1,4 @@
-<h2 align="left">Hello! 👋 </h2>
+<h2 align="center">Hello! 👋 </h2>
 
 - I’m currently working on a **react job tracking app** 🔭 
 - I’m also taking courses at **Deque University** 🌱 
