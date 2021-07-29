@@ -1,18 +1,12 @@
 <h2 align="left">Hello! 👋 </h2>
 
-- 🔭 &nbsp;I’m currently working on a **react job tracking app**
-
-- 🌱 &nbsp;I’m currently taking courses at **Deque University**
-
-- 👨‍💻 &nbsp;All of my projects are available at **Coming Soon!**
-
-- 📝 &nbsp;I recently graduated **Prime Digital Academy**
-
-- 📄 &nbsp;I also graduated from **Winona State University**
-
-- 💬 &nbsp;Ask me about **programmer memes**
-
-- 📫 &nbsp;How to reach me **kjepsen86@gmail.com**
+- I’m currently working on a **react job tracking app** 🔭 
+- I’m currently taking courses at **Deque University** 🌱 
+- All of my projects are available at **Coming Soon!** 👨‍💻
+- I graduated from **Prime Digital Academys** Full Stack Software Engineering        program📝 
+- I've also graduated from **Winona State University** with B.S. in Kineisology 📄 
+- Ask me about **programmer memes** 💬 
+- How to reach me **kjepsen86@gmail.com** 📫
 
 
 <h3 align="left">Languages and Tools:</h3>
