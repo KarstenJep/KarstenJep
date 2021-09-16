@@ -2,7 +2,7 @@
 
 - I’m currently working on a **react job tracking app** 🔭 
 - I’m also taking courses with **Front End Masters** 🌱 
-<!-- - All of my projects are available at **Coming Soon!** 👨‍💻 -->
+- My personal website is **https://karstenjep.github.io/** 👨‍💻
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering        program 💻
 - I've also graduated from **Winona State University** with B.S. in Kineisology 📚
 - How to reach me **kjepsen86@gmail.com** 📫
