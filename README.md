@@ -1,4 +1,4 @@
-<h2 align="left">Hello! 👋 </h2>
+<h2 margin-left: "10%">Hello! 👋 </h2>
 
 <!-- - I’m currently working on a **react job tracking app** 🔭  -->
 - I’m currently spending my free time taking courses through **Front End Masters** 🌱 
