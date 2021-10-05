@@ -1,11 +1,11 @@
 <h2 align="left">&emsp; Hello! 👋 </h2>
 
 <!-- - I’m currently working on a **react job tracking app** 🔭  -->
-- I’m currently spending my free time taking courses through **Front End Masters** 🌱 
-- My personal website is **https://karstenjep.github.io/** 👨‍💻
-- I graduated from **Prime Digital Academys** Full Stack Software Engineering        program 💻
-- I've also graduated from **Winona State University** with B.S. in Kineisology 📚
-- How to reach me **kjepsen86@gmail.com** 📫
+- I’m currently spending my free time taking courses through **Front End Masters**
+- My personal website is **https://karstenjep.github.io/**
+- I graduated from **Prime Digital Academys** Full Stack Software Engineering program
+- I've also graduated from **Winona State University** with B.S. in Kineisology
+- How to reach me **kjepsen86@gmail.com**
 
 
 <h3 align="left">&emsp; Languages and Tools:</h3>
