@@ -1,6 +1,5 @@
 <h2 align="left">&emsp; Hello! 👋 </h2>
 
-<!-- - I’m currently working on a **react job tracking app** 🔭  -->
 - My personal website is **https://karstenjep.github.io/** 👨‍💻
 - I’m currently working as a Consultant for Daugherty Business Solutions, and learning a lot! 🌱 
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering program 💻
