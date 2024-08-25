@@ -5,8 +5,8 @@
 - Recently I worked as a Software Engineering Consultant for Daugherty Business Solutions 💻 
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering program 🌱
 - I've also graduated from **Winona State University** with B.S. in Kineisology 📚
-- My personal website is **https://karstenjep.github.io/** 👨‍💻
-- How to reach me **kjepsen86@gmail.com** 📫
+- My personal website and portolio is: **https://karstenjep.github.io/** 👨‍💻
+- You can send me an email at: **kjepsen86@gmail.com** 📫
 
 
 <h3 align="left">Languages and Tools:</h3>
