@@ -1,11 +1,11 @@
-<h2 align="left">&emsp; Hi There! 👋 </h2>
+<h2 align="left">&emsp; Welcome! 👋 </h2>
 
-- My personal website is **https://karstenjep.github.io/** 👨‍💻
 - I have experience in full stack development, while utilizing a variety of languages and tools 🛠
-- I enjoy pushing myself out of my comfort zone, learning best practices, and producing quality, maintainable, and scalable code 🛡
+- I enjoy new challenges, learning best practices, and producing quality/maintainable/clean code 🛡
 - Recently I worked as a Software Engineering Consultant for Daugherty Business Solutions 💻 
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering program 🌱
 - I've also graduated from **Winona State University** with B.S. in Kineisology 📚
+- - My personal website is **https://karstenjep.github.io/** 👨‍💻
 - How to reach me **kjepsen86@gmail.com** 📫
 
 
