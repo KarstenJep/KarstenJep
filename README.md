@@ -1,6 +1,6 @@
 <h2 align="left">&emsp; Welcome! 👋 </h2>
 
-- I have experience in full stack development, while utilizing a variety of languages and tools 🛠
+- I have experience in full stack development, while utilizing a variety of languages, frameworks and tools 🛠
 - I enjoy new challenges, learning best practices, and producing quality/maintainable/clean code 🛡
 - Recently I worked as a Software Engineering Consultant for Daugherty Business Solutions 💻 
 - I graduated from **Prime Digital Academys** Full Stack Software Engineering program 🌱
